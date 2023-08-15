@@ -35,6 +35,8 @@ Der Baustein dient zur Kommunikation mit einer Netatmo HomeCoach Station.
 
 ### Change Log
 
+- v0.3
+  - Ausgang Health idx Text hinzugefuegt
 - v0.2
   - div. Anpassungen
  - v0.1
